@@ -1,0 +1,5 @@
+2013-09-20 6:16:54 - PHP Notice:  Undefined index: en in Z:\home\localhost\www\opencart\index.php on line 180
+2013-09-20 6:16:54 - PHP Notice:  Undefined index: en in Z:\home\localhost\www\opencart\index.php on line 181
+2013-09-20 6:16:54 - PHP Notice:  Undefined index: en in Z:\home\localhost\www\opencart\index.php on line 184
+2013-09-20 6:16:54 - PHP Notice:  Undefined index: en in Z:\home\localhost\www\opencart\index.php on line 185
+2013-09-20 6:16:54 - PHP Notice:  Error: Could not load language ! in Z:\home\localhost\www\opencart\system\library\language.php on line 39
